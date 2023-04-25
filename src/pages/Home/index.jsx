@@ -38,7 +38,7 @@ export default function Home() {
       <div className="max-w-5xl m-auto p-10">
         <div className="flex gap-10 items-end">
           <div>
-            <h1 className="text-red-800 text-6xl font-extrabold">Películas</h1>
+            <h1 className="text-purple-800 text-6xl font-bold">Películas</h1>
           </div>
           <div>
             <div className="flex gap-2">
@@ -51,7 +51,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <hr className="mt-10 h-1 bg-gray-200" />
+        <hr className="mt-10 h-1 bg-purple-200" />
         <div className="flex gap-24 mt-10">
           <div className="flex flex-col gap-7 w-60">
             <h2 className="font-semibold">Filtrar por:</h2>
